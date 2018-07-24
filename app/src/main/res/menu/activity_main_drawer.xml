@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/add_file"
+            android:icon="@drawable/ic_file_upload_black_24dp"
+            android:title="Add Files" />
+        <item
+            android:id="@+id/add_interest"
+            android:icon="@drawable/ic_format_italic_black_24dp"
+            android:title="Add Interest" />
+        <item
+            android:id="@+id/files"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="Files" />
+    </group>
+
+
+
+</menu>
